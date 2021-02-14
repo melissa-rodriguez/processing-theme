@@ -1,4 +1,4 @@
 # processing-theme
 Dark theme for processing IDE. 
 
-![alt text](images/fullscreen.png)
+![alt text](images/fullscreen.png "Preview of dark theme")

@@ -12,4 +12,11 @@ Dark theme for processing IDE.
 
 
 ## Preview
-![](images/fullscreen.PNG)
+theme_blue
+![](images/blue.PNG)
+theme_dark
+![](images/dark.PNG)
+theme_virgil
+![](images/virgil.PNG)
+theme_midnight
+![](images/midnight.PNG)

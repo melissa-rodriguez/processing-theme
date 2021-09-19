@@ -13,7 +13,7 @@ Dark theme for processing IDE.
 
 ## Preview
 # theme_blue
-![](images/blue.PNG)
+![](images/blue.PNG) #
 
 # theme_dark
 ![](images/dark.PNG)
